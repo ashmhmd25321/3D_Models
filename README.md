@@ -4,7 +4,7 @@ The 3D Models repository contains a collection of 3D models representing statues
 
 ## File Formats
 
-The 3D models are provided in the Wavefront OBJ file format, a widely supported format for storing 3D geometry data. Alongside the OBJ files, you will find corresponding material files (MTL) and texture files (PNG or JPEG) if applicable.
+The 3D models are provided in the Wavefront GLB file format, a widely supported format for storing 3D geometry data. Alongside the GLB files, you will find corresponding material files (MTL) and texture files (PNG or JPEG) if applicable.
 
 Please note that the 3D models are provided as static assets and do not include any animations or rigging information.
 
@@ -18,7 +18,7 @@ To use the 3D models from this repository, follow these steps:
 
 3. Use the provided OBJ file along with its associated MTL and texture files, if available, in your application or 3D rendering pipeline.
 
-4. Ensure that your application or software supports the Wavefront OBJ file format for importing and rendering the 3D models.
+4. Ensure that your application or software supports the Wavefront GLB file format for importing and rendering the 3D models.
 
 ## Licensing
 
